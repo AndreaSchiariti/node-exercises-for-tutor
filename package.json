@@ -1,0 +1,19 @@
+{
+  "name": "tutor-exercise",
+  "version": "1.0.0",
+  "main": "ex-1_create-a-sum-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-exercise-for-tutor"
+  },
+  "author": "Andrea Schiariti",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  },
+  "type": "module"
+}
